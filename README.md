@@ -1,2 +1,2 @@
-# android-ci
-Image that already has the Android SDKs installed which makes the Gradle build faster at CI. 
+# Android Base Image for GitLab CI
+An image that lets us build android apps with docker using gitlab-ci.
